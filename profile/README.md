@@ -6,6 +6,6 @@ We are trying to create a Tech Platform mostly reliant on User Generated Content
 It should be possible for anyone to easily devolope and upload a app on our platform.
 
 ## Links
-- [GitHub](https://github.com/hstoreinteractive)
+- [GitHub](https://github.com/TheHSI-HQ)
 - [YouTube](https://youtube.com/@hstoreinteractive)
-- [Website](https://hstoreinteractive.github.io/index)
+- [Website](https://thehsi.cloud/)
