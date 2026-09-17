@@ -12,5 +12,5 @@ Whether we are building a small utility, a large platform, or experimenting with
 
 ## Links
 - [GitHub](https://github.com/TheHSI-HQ)
-- [YouTube](https://youtube.com/@hstoreinteractive)
+- [YouTube](https://youtube.com/@thehsi-hq)
 - [Website](https://thehsi.cloud/)
