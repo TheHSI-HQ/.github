@@ -1,4 +1,7 @@
 # TheHSI
+![Non Profit](https://img.shields.io/badge/Finance-Non_Profit_/_Donations-8A2BE2)
+![LGBTQ+ Fiendly](https://pride-badges.pony.workers.dev/static/v1?label=LGBTQ%2B%20friendly&stripeWidth=6&stripeColors=E40303,FF8C00,FFED00,008026,24408E,732982)
+
 **TheHSI is a Team of mildly good programmers trying to make a new standard in technology**
 
 ## What do we do?
